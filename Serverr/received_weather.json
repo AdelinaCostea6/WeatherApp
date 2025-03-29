@@ -1,0 +1,164 @@
+[
+  {
+    "location": "Bucharest",
+    "coordinates": {
+      "latitude": 44,
+      "longitude": 26
+    },
+    "weather": {
+      "temperature": 22,
+      "description": "Sunny",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 24,
+          "description": "Partly Cloudy"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 25,
+          "description": "Clear Sky"
+        }
+      ]
+    }
+  },
+  {
+    "location": "Cluj-Napoca",
+    "coordinates": {
+      "latitude": 46,
+      "longitude": 23
+    },
+    "weather": {
+      "temperature": 18,
+      "description": "Cloudy",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 20,
+          "description": "Rain Showers"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 19,
+          "description": "Mostly Cloudy"
+        }
+      ]
+    }
+  },
+  {
+    "location": "Timisoara",
+    "coordinates": {
+      "latitude": 45,
+      "longitude": 21
+    },
+    "weather": {
+      "temperature": 25,
+      "description": "Hot",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 26,
+          "description": "Sunny"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 28,
+          "description": "Very Hot"
+        }
+      ]
+    }
+  },
+  {
+    "location": "Constanta",
+    "coordinates": {
+      "latitude": 44,
+      "longitude": 28
+    },
+    "weather": {
+      "temperature": 21,
+      "description": "Windy",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 23,
+          "description": "Clear Sky"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 22,
+          "description": "Sunny with Strong Winds"
+        }
+      ]
+    }
+  },
+  {
+    "location": "Iasi",
+    "coordinates": {
+      "latitude": 47,
+      "longitude": 27
+    },
+    "weather": {
+      "temperature": 17,
+      "description": "Rainy",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 18,
+          "description": "Light Rain"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 19,
+          "description": "Cloudy"
+        }
+      ]
+    }
+  },
+  {
+    "location": "Brasov",
+    "coordinates": {
+      "latitude": 45,
+      "longitude": 25
+    },
+    "weather": {
+      "temperature": 16,
+      "description": "Cold and Foggy",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 15,
+          "description": "Cold Rain"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 14,
+          "description": "Dense Fog"
+        }
+      ]
+    }
+  },
+  {
+    "location": "Madrid",
+    "coordinates": {
+      "latitude": 46,
+      "longitude": 23
+    },
+    "weather": {
+      "temperature": 18,
+      "description": "Cloudy",
+      "forecast": [
+        {
+          "day": "Tomorrow",
+          "temperature": 20,
+          "description": "Rain Showers"
+        },
+        {
+          "day": "Day After Tomorrow",
+          "temperature": 19,
+          "description": "Mostly Cloudy"
+        }
+      ]
+    }
+  }
+]
+
