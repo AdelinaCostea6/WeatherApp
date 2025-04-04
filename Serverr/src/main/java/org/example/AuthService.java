@@ -35,7 +35,6 @@ public class AuthService {
                 }
             }
 
-            // Inserăm utilizatorul dacă nu există deja
             String insertUserQuery = "INSERT INTO users (username, password, role, latitude, longitude) VALUES (?, ?, ?, ?, ?)";
             try (PreparedStatement insertStmt = conn.prepareStatement(insertUserQuery)) {
                 insertStmt.setString(1, username);
